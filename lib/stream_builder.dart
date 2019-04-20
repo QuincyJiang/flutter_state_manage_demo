@@ -91,19 +91,6 @@ class StreamBuilderState extends State<StreamBuilderPage>{
               ),
               Container(
                 decoration: BoxDecoration(
-                  color: Colors.orange,
-                ),
-                padding: EdgeInsets.all(20),
-//                child: StreamBuilder<String>(
-//                  stream: _singleController.stream,
-//                  initialData: "initData",
-//                  builder: (BuildContext context,AsyncSnapshot<String>
-//                  snapshot){
-//                    return Text("B ：单订阅事件源 收到数据：${snapshot.data}");},
-//                ),
-              ),
-              Container(
-                decoration: BoxDecoration(
                   color: Colors.deepOrangeAccent,
                 ),
                 padding: EdgeInsets.all(20),

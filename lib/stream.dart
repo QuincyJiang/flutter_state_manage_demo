@@ -143,11 +143,6 @@ class StreamState extends State<StreamWidget>{
               child: Text("多订阅 D开始订阅"),
               onPressed: listenMultiStreamD,
             ),
-            MaterialButton(
-              color: Colors.white70,
-              child: Text("to Stream Builder"),
-              onPressed: toStreamBuilderPage,
-            ),
           ],
         ),
       )
@@ -201,11 +196,6 @@ class StreamState extends State<StreamWidget>{
       _multiSubscribeCountD = data;
       print("Multi subscriberB receive stream data :" + data);
     }));
-  }
-
-  void toStreamBuilderPage(){
-    Navigator.of(context).push(new MaterialPageRoute(
-        builder: (BuildContext context) => StreamBuilderPage()));
   }
 
 }
