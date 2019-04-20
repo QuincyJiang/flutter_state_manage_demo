@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_state_management/bloc.dart';
-import 'package:flutter_state_management/setState.dart';
+import 'package:flutter_state_management/set_state.dart';
 import 'stream.dart';
 
 void main() => runApp(MyApp());
