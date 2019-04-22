@@ -1,16 +1,16 @@
-# flutter_state_management
+## flutter_state_management
 
-A new Flutter application.
+《 YY 技术分析会 之 使用`Redux`+`BloC` 更好的进行状态管理》
+ 示例代码 与 ppt 文件
+ 
+ 
+[ PPT 请戳此链接查看](https://www.beautiful.ai/deck/-LcKKR8AutG9ItB1cxtR/StateManage)
+ 
+![](media/15559446487722.jpg)
+![](media/15559446867381.jpg)
+![](media/15559447057983.jpg)
+![](media/15559447361798.jpg)
 
-## Getting Started
+![](media/15559445964449.jpg)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
